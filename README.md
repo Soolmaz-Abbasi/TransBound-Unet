@@ -21,11 +21,11 @@ pip install -r requirements.txt
 
 The dataset used in the paper is available upon request from the corresponding author.
 Place images and masks in the following structure:
-
+```
 data/
 ├── images/
 └── masks/
-
+```
 
 ### Results
 
