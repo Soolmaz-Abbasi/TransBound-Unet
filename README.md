@@ -33,7 +33,7 @@ data/
 
 ### Citation
 ```bibtex
-@article{abbasi2025improved,
+@article{
   title={Improved A-Line and B-Line Detection in Lung Ultrasound Using Deep Learning with Boundary-Aware Dice Loss},
   author={Abbasi, Soolmaz and Wahd, Assefa Seyoum and Ghosh, Shrimanti and Ezzelarab, Maha and Panicker, Mahesh and Chen, Yale Tung and Jaremko, Jacob L and Hareendranathan, Abhilash},
   journal={Bioengineering},
