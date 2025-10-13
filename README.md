@@ -15,7 +15,8 @@ source .venv/bin/activate    # Linux / macOS
 
 # install dependencies
 pip install -r requirements.txt
-```bash
+
+
 ### Data
 
 The dataset used in the paper is available upon request from the corresponding author.
@@ -24,3 +25,8 @@ Place images and masks in the following structure:
 data/
 ├── images/
 └── masks/
+
+###Results
+
+![bioengineering-12-00311-g004](https://github.com/user-attachments/assets/f9aa8ede-4b7d-4552-a502-5852f1fd1115)
+
