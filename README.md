@@ -31,3 +31,15 @@ data/
 
 ![bioengineering-12-00311-g004](https://github.com/user-attachments/assets/f9aa8ede-4b7d-4552-a502-5852f1fd1115)
 
+### Citation
+```bibtex
+@article{abbasi2025improved,
+  title={Improved A-Line and B-Line Detection in Lung Ultrasound Using Deep Learning with Boundary-Aware Dice Loss},
+  author={Abbasi, Soolmaz and Wahd, Assefa Seyoum and Ghosh, Shrimanti and Ezzelarab, Maha and Panicker, Mahesh and Chen, Yale Tung and Jaremko, Jacob L and Hareendranathan, Abhilash},
+  journal={Bioengineering},
+  volume={12},
+  number={3},
+  pages={311},
+  year={2025},
+  publisher={MDPI}
+}
